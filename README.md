@@ -1,7 +1,7 @@
 
 # Bigbox's Frontend Challenge 2021
 
-Frontend Application developed as a challenge for Bigbox
+Frontend Application developed in React JS as a challenge for Bigbox
 
 
 ## Features
@@ -9,6 +9,7 @@ Frontend Application developed as a challenge for Bigbox
 - Consumes the Books API provided by the NYTimes
 - Every search result leads to a google search page by clicking on it
 - API request made using Axios library
+- Semantic UI as a CSS framework
 - Animations provided by AOS library
 - Responsive design
 
