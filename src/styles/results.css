@@ -1,0 +1,31 @@
+.list {
+  list-style: none;
+}
+
+.list li {
+  margin-bottom: 30px;
+}
+
+.list a {
+  color: #0a5b8c;
+  display: block;
+  margin-bottom: 6px;
+}
+
+.list span {
+  color: rgba(#3b4242, 0.7);
+  font-size: 12px;
+}
+
+.list p {
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+.no-content {
+  margin-top: 20px!important;
+}
+
+.number-res {
+  text-align: right;
+}

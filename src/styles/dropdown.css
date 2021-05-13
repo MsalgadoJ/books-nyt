@@ -1,0 +1,11 @@
+.ui.form {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+@media(min-width: 768px) {
+  .ui.form {
+    width: 40%;
+    margin-bottom: 15px;
+  }
+}

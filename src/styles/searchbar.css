@@ -1,0 +1,21 @@
+.search {
+  margin-bottom: 24px;
+  width: 100%;
+}
+
+.form-control {
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #ced4da;
+  border-radius: 0;
+  outline: 0;
+  box-shadow: none;
+  padding: 6px 0;
+  width: 100%;
+}
+
+@media(min-width: 768px) {
+  .search {
+    width: 40%;
+  }
+}
